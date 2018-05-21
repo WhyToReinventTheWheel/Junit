@@ -12,6 +12,7 @@ JUnit
 ----------------
 Power Mock Setup 
 -----------------
+```
 dependencies {
     testCompile 'junit:junit:4.12'
     testCompile 'org.mockito:mockito-core:2.8.0'
@@ -50,3 +51,4 @@ public class FinalMethodTest {
     }
 
 }
+```
